@@ -1,6 +1,8 @@
 # Chat-Application-React
 
+Chat-Application-React is a modern, real-time messaging platform built with React. It provides users with an intuitive and responsive interface for seamless communication. The application supports features such as one-on-one chats, group messaging, and real-time notifications, ensuring a smooth and interactive user experience. Leveraging React’s powerful front-end capabilities, Chat-Application-React offers a scalable and efficient solution for creating engaging and dynamic chat experiences. Whether for personal use or as part of a larger project, it delivers a robust and user-friendly chat system.
 Getting Started with Create React App
+
 This project was bootstrapped with Create React App.
 
 Available Scripts
